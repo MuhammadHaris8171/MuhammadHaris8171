@@ -12,7 +12,7 @@ I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Expr
 
 ### 🌟 Featured Project
 
-[![Car Finance App](https://img.shields.io/badge/Live%20Demo-Car%20Finance%20App-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://car-finance-frontend.vercel.app/)
+[![Car Finance App](https://img.shields.io/badge/Live%20Demo-Car%20Finance%20App-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://prohomez.com/)
 
 ---
 
@@ -39,7 +39,7 @@ I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Expr
 
 ### 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://haris-six.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://haris-portfolio-next.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haris-77080b313)
 
 ---
