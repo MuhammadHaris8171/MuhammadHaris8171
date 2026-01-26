@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js). I love crafting dynamic, user-friendly web applications that deliver real value. Whether it's building from scratch or enhancing existing solutions, I thrive on solving problems and pushing the limits of what the web can do.
+I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js) and NextJs. I love crafting dynamic, user-friendly web applications that deliver real value. Whether it's building from scratch or enhancing existing solutions, I thrive on solving problems and pushing the limits of what the web can do.
 
 ---
 
