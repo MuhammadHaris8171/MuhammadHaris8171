@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muhammad Haris
 
-⚙️⚙️🤖💻🛠️ **MERN Stack Web Developer | Building Modern, Scalable Web Experiences**
+⚙️🤖💻🛠️ **MERN Stack Web Developer | Building Modern, Scalable Web Experiences**
 
 ---
 
