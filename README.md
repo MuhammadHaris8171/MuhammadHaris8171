@@ -1,22 +1,22 @@
 # 👋 Hi, I’m Muhammad Haris
 
-🌈 **MERN Stack Web Developer | Building Modern, Scalable Web Experiences**
+⚙️⚙️🤖💻🛠️ **MERN Stack Web Developer | Building Modern, Scalable Web Experiences**
 
 ---
 
-### 🚀 About Me
+### 👾 About Me
 
 I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js) and NextJs. I love crafting dynamic, user-friendly web applications that deliver real value. Whether it's building from scratch or enhancing existing solutions, I thrive on solving problems and pushing the limits of what the web can do.
 
 ---
 
-### 🌟 Featured Project
+### 📌🌟 Featured Project
 
 [![Car Finance App](https://img.shields.io/badge/Live%20Demo-Car%20Finance%20App-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://prohomez.com/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️⚙️ Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -28,7 +28,7 @@ I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Expr
 
 ---
 
-### 📈 GitHub Stats
+### 📈 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammadHaris8171&show_icons=true&theme=radical" height="165">
@@ -37,7 +37,7 @@ I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Expr
 
 ---
 
-### 🔗 Connect with Me
+### 🔗🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://haris-portfolio-next.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haris-77080b313)
