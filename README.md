@@ -12,7 +12,7 @@ I'm a passionate Web Developer specializing in the **MERN Stack** (MongoDB, Expr
 
 ### 📌🌟 Featured Project
 
-[![Car Finance App](https://img.shields.io/badge/Live%20Demo-Car%20Finance%20App-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://prohomez.com/)
+[![Car Finance App](https://img.shields.io/badge/Live%20Demo-Prohomez%20App-29B6F6?style=for-the-badge&logo=vercel&logoColor=white)](https://prohomez.com/)
 
 ---
 
